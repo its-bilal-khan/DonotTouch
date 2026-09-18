@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DoNotTouch</string>
+    <string name="service_description">System Service</string>
+</resources>
